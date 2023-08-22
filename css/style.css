@@ -57,3 +57,26 @@ nav{
     padding: 10px;
     list-style-type: none;
 }
+
+.right-buttons{
+    /*border: 2px solid red;*/
+    width: 200px;
+    display: flex;
+}
+
+.button-item{
+    padding: 5px;
+    margin: 5px;
+    color: black;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.features{
+background-color: black;
+height: 500px;
+}
+
+.feature_list{
+
+}
