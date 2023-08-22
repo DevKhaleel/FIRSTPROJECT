@@ -72,11 +72,12 @@ nav{
     border-radius: 10px;
 }
 
-.features{
-background-color: black;
+.feature{
+background-color: white;
 height: 500px;
 }
 
 .feature_list{
-
+background-color: white;
+width: 300px;
 }
